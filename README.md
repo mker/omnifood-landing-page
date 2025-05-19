@@ -4,7 +4,7 @@
 
 Omnifood landing page
 
-<img width='1000' alt='omnifood-preview' src='./screenshots/omnifood-hero-preview.png'>
+<img width='700' alt='omnifood-hero' src='./screenshots/omnifood-hero-preview.png'>
 
 ## Built with
 
@@ -12,6 +12,11 @@ Omnifood landing page
 - Flexbox
 - CSS Grid
 - A bit of JS for nav and scrolling, Intersection Observer API
+
+## Complete preview
+
+<img width='700' alt='omnifood-complete-preview' src='./screenshots/omnifood-complete-preview.png'>
+
 
 ## Credits
 
